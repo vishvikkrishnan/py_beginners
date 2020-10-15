@@ -1,4 +1,4 @@
-# py_repo_beginner
+# py_beginners
 Basic level python code to do basic things that will help you build your basics
 
 
@@ -9,3 +9,4 @@ Basic level python code to do basic things that will help you build your basics
 3.Just upload your .py extension file and start a PR .
 4.Add a comment to your .py file stating it's purpose
 5.Give your file a meaningful name related to your file.
+6. Create issues for ideas you do not known how to solve
