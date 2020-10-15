@@ -3,7 +3,7 @@ Basic level python code to do basic things that will help you build your basics
 
 
 
-#For Contributors
+# For Contributors
 1. All code is in python.
 2. No project should have a library.
 3.Just upload your .py extension file and start a PR .
