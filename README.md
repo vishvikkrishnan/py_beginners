@@ -19,9 +19,10 @@ File Name | Description
 [Hello_World.py](https://github.com/LySergicaciD125/py_beginners/blob/main/Hello_World.py) | output hello world
 [palindrome_no_chk.py](https://github.com/LySergicaciD125/py_beginners/blob/main/palindrome_no_chk.py) | check if a given number is a palindrome number or not
 [palindrome_string_chk.py](https://github.com/LySergicaciD125/py_beginners/blob/main/palindrome_string_chk.py) | check if a given string is a palindrome string or not
-[Pants_Pyramid_patter.py](https://github.com/LySergicaciD125/py_beginners/blob/main/Pants_Pyramid_patter.py) | output a pants pyramid pattern
+[pants_pyramid_patter.py](https://github.com/LySergicaciD125/py_beginners/blob/main/pants_pyramid_patter.py) | output a pants pyramid pattern
 [prime.py](https://github.com/LySergicaciD125/py_beginners/blob/main/prime.py) | determines if given number is a prime number
 [queue.py](https://github.com/LySergicaciD125/py_beginners/blob/main/queue.py) | simple queue data structure with CRUD
+[reverse_integer.py](https://github.com/LySergicaciD125/py_beginners/blob/main/reverse_integer.py) | reverse given integer number from user input
 [timer_prog.py](https://github.com/LySergicaciD125/py_beginners/blob/main/timer_prog.py) | create a timer to wait for x second before doing some actions
 [txt _calculator.py](https://github.com/LySergicaciD125/py_beginners/blob/main/txt%20_calculator.py) | textual input based calculator (operations: add/subtract/multiply/divide)
 
