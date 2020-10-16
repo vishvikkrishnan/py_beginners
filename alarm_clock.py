@@ -1,4 +1,4 @@
-import webbrowser, datetime, time, winsound, sys
+import datetime, time, winsound, sys
 from datetime import datetime, timedelta
 
 frequency = 2500  
