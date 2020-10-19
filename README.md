@@ -30,6 +30,7 @@ File Name | Description
 [string_permutations.py](https://github.com/LySergicaciD125/py_beginners/blob/main/string_permutations.py) | different permutations of a string given by user is printed
 [timer_prog.py](https://github.com/LySergicaciD125/py_beginners/blob/main/timer_prog.py) | create a timer to wait for x second before doing some actions
 [txt _calculator.py](https://github.com/LySergicaciD125/py_beginners/blob/main/txt%20_calculator.py) | textual input based calculator (operations: add/subtract/multiply/divide)
+[bmkg_earthquake_alert.py](https://github.com/oprahadian/py_beginners/blob/main/bmkg_earthquake_alert.py) | API consumer for earthquake information
 
 ## For Contributors
 
