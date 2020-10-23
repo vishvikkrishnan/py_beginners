@@ -31,6 +31,8 @@ File Name | Description
 [timer_prog.py](https://github.com/LySergicaciD125/py_beginners/blob/main/timer_prog.py) | create a timer to wait for x second before doing some actions
 [txt _calculator.py](https://github.com/LySergicaciD125/py_beginners/blob/main/txt%20_calculator.py) | textual input based calculator (operations: add/subtract/multiply/divide)
 [bmkg_earthquake_alert.py](https://github.com/oprahadian/py_beginners/blob/main/bmkg_earthquake_alert.py) | API consumer for earthquake information
+[word_game.py](https://github.com/lakshya125/py_beginners/blob/main/word_game.py) | A word game
+
 
 ## For Contributors
 
