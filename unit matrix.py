@@ -1,5 +1,5 @@
-row = int(input("enter no of rows " ))
-col = int(input("enter no of cols"))
+row = int(input("enter no of rows: " ))
+col = int(input("enter no of cols:"))
 print("enter MATRIX :  ")
 matrix=[]
 for i in range(row):
