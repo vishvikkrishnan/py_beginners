@@ -25,6 +25,7 @@ File Name | Description
 [pants_pyramid_patter.py](https://github.com/LySergicaciD125/py_beginners/blob/main/pants_pyramid_patter.py) | output a pants pyramid pattern
 [prime.py](https://github.com/LySergicaciD125/py_beginners/blob/main/prime.py) | determines if given number is a prime number
 [queue.py](https://github.com/LySergicaciD125/py_beginners/blob/main/queue.py) | simple queue data structure with CRUD
+[rainbow_hex.py](https://github.com/LySergicaciD125/py_beginners/blob/main/rainbow_hex.py) | Prints the hexadecimal code for the colors of the rainbow
 [reverse_integer.py](https://github.com/LySergicaciD125/py_beginners/blob/main/reverse_integer.py) | reverse given integer number from user input
 [reverse_string.py](https://github.com/LySergicaciD125/py_beginners/blob/main/reverse_string.py) | reverse given string number from user input
 [string_permutations.py](https://github.com/LySergicaciD125/py_beginners/blob/main/string_permutations.py) | different permutations of a string given by user is printed
