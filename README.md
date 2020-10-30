@@ -32,7 +32,9 @@ File Name | Description
 [txt _calculator.py](https://github.com/LySergicaciD125/py_beginners/blob/main/txt%20_calculator.py) | textual input based calculator (operations: add/subtract/multiply/divide)
 [bmkg_earthquake_alert.py](https://github.com/oprahadian/py_beginners/blob/main/bmkg_earthquake_alert.py) | API consumer for earthquake information
 [word_game.py](https://github.com/lakshya125/py_beginners/blob/main/word_game.py) | A word game
-
+[river_swimmer_problem.py](https://github.com/lakshya125/py_beginners/blob/main/river_swimmer_problem.py) | A simple program to calculate swimmer's time to swim towards and against river stream
+[simple_quiz.py](https://github.com/lakshya125/py_beginners/blob/main/simple_quiz.py) | A simple quiz
+[Quicksort.py](https://github.com/lakshya125/py_beginners/blob/main/Quicksort.py) | Quicksort algorithm implementation
 
 ## For Contributors
 
