@@ -27,6 +27,7 @@ File Name | Description
 [queue.py](https://github.com/LySergicaciD125/py_beginners/blob/main/queue.py) | simple queue data structure with CRUD
 [reverse_integer.py](https://github.com/LySergicaciD125/py_beginners/blob/main/reverse_integer.py) | reverse given integer number from user input
 [reverse_string.py](https://github.com/LySergicaciD125/py_beginners/blob/main/reverse_string.py) | reverse given string number from user input
+[sparse_number.py](https://github.com/LySergicaciD125/py_beginners/blob/main/sparse_number.py) | determine whether a given number is sparse number
 [string_permutations.py](https://github.com/LySergicaciD125/py_beginners/blob/main/string_permutations.py) | different permutations of a string given by user is printed
 [timer_prog.py](https://github.com/LySergicaciD125/py_beginners/blob/main/timer_prog.py) | create a timer to wait for x second before doing some actions
 [txt _calculator.py](https://github.com/LySergicaciD125/py_beginners/blob/main/txt%20_calculator.py) | textual input based calculator (operations: add/subtract/multiply/divide)
