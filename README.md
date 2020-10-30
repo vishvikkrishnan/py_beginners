@@ -32,7 +32,6 @@ File Name | Description
 [txt _calculator.py](https://github.com/LySergicaciD125/py_beginners/blob/main/txt%20_calculator.py) | textual input based calculator (operations: add/subtract/multiply/divide)
 [bmkg_earthquake_alert.py](https://github.com/oprahadian/py_beginners/blob/main/bmkg_earthquake_alert.py) | API consumer for earthquake information
 [word_game.py](https://github.com/lakshya125/py_beginners/blob/main/word_game.py) | A word game
-[time-based_greetings.py](/time-based_greetings.py) | A hello world with time-based greeting (Good morning, Good afternoon...)
 
 
 ## For Contributors
