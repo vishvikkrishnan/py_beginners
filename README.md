@@ -6,11 +6,15 @@ Basic level python code to do basic things that will help you build your basics
 
 File Name | Description
 ---|---
+[AdditonOfDigitsOfAGivenNumber.py] (https://github.com/lakshya125/py_beginners/blob/main/AdditonOfDigitsOfAGivenNumber.py) | Addition of given digits till a number
+[Anagrams.py] (https://github.com/lakshya125/py_beginners/blob/main/Anagrams.py) | Find anagrams within a given array
+[Anagrams.py] (https://github.com/lakshya125/py_beginners/blob/main/Anagrams.py) | Find anagrams within a given array
 [binary_to_decimal.py](https://github.com/LySergicaciD125/py_beginners/blob/main/binary_to_decimal.py) | provides an equivalent decimal output for a given binary number
 [celsius_to_fahrenheit.py](https://github.com/LySergicaciD125/py_beginners/blob/main/celsius_to_fahrenheit.py) | converts given Celsius temperature to Fahrenheit unit
 [compound_int_cal.py](https://github.com/LySergicaciD125/py_beginners/blob/main/compound_int_cal.py) | find compound interest for principal amount
 [count_occurences_of_items_in_array.py](https://github.com/LySergicaciD125/py_beginners/blob/main/count_occurences_of_items_in_array.py) | counts the frequency of items in the array
 [decimal_to_binary.py](https://github.com/LySergicaciD125/py_beginners/blob/main/decimal_to_binary.py) | provides an equivalent binary output for a given decimal number
+[Dijkstra’s_shortest_path_algorithm.py] (https://github.com/lakshya125/py_beginners/blob/main/Dijkstra%E2%80%99s_shortest_path_algorithm.py) | Solution for Djikstra's shortest path algorithm
 [discount_calc.py](https://github.com/LySergicaciD125/py_beginners/blob/main/discount_calc.py) | provides price after discount output for a given number
 [encrypt_decrypt.py](https://github.com/LySergicaciD125/py_beginners/blob/main/encrypt_decrypt.py) | encrypts / decrypts given input string based on user preference
 [factorial.py](https://github.com/LySergicaciD125/py_beginners/blob/main/factorial.py) | calculate the factorial of a given number
