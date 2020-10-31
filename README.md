@@ -37,6 +37,7 @@ File Name | Description
 [river_swimmer_problem.py](https://github.com/lakshya125/py_beginners/blob/main/river_swimmer_problem.py) | A simple program to calculate swimmer's time to swim towards and against river stream
 [simple_quiz.py](https://github.com/lakshya125/py_beginners/blob/main/simple_quiz.py) | A simple quiz
 [Quicksort.py](https://github.com/lakshya125/py_beginners/blob/main/Quicksort.py) | Quicksort algorithm implementation
+[insertion_sort.py](https://github.com/ashutosh007865/py_beginners/blob/main/insertion_sort.py)| Insertion sort algorithm using python
 
 ## For Contributors
 
